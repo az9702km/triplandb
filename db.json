@@ -1,16 +1,31 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+  "orders": [
     {
       "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "begin_date": "18.12.2022",
+      "end_date": "03.01.2023",
+      "purpose": "Проверка регионального филиала",
+      "destination": "Наманган",
+      "supervisor": "Иванов Николай",
+      "state": "pending"
+    },
+    {
+      "id": 1,
+      "begin_date": "18.12.2022",
+      "end_date": "03.01.2023",
+      "purpose": "Новогодный корпоратив в нью йорке",
+      "destination": "Нью Йорк",
+      "supervisor": "Иванов Николай",
+      "state": "approved"
+    },
+    {
+      "id": 2,
+      "begin_date": "18.12.2022",
+      "end_date": "03.01.2023",
+      "purpose": "Локальная газета в Лестере",
+      "destination": "Лестер",
+      "supervisor": "Иванов Николай",
+      "state": "denied"
     }
   ]
 }
