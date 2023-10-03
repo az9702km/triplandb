@@ -28,5 +28,130 @@
       "state": "denied"
     }
   ],
-  "projects": [],
+  "branches": [
+    {
+      "id": 1,
+      "branch_id": 1,
+      "branch_name": "Бухоро вилояти"
+    },
+    {
+      "id": 2,
+      "branch_id": 2,
+      "branch_name": "Жиззах вилояти"
+    },
+    {
+      "id": 3,
+      "branch_id": 3,
+      "branch_name": "Қорақалпоғистон Республикаси"
+    },
+    {
+      "id": 4,
+      "branch_id": 4,
+      "branch_name": "Қашқадарё вилояти"
+    },
+    {
+      "id": 5,
+      "branch_id": 5,
+      "branch_name": "Навоий вилояти"
+    },
+    {
+      "id": 6,
+      "branch_id": 6,
+      "branch_name": "Наманган вилояти"
+    },
+    {
+      "id": 7,
+      "branch_id": 7,
+      "branch_name": "Самарқанд вилояти"
+    },
+    {
+      "id": 8,
+      "branch_id": 8,
+      "branch_name": "Сирдарё вилояти"
+    },
+    {
+      "id": 9,
+      "branch_id": 9,
+      "branch_name": "Сурхондарё вилояти"
+    },
+    {
+      "bd": 10,
+      "branch_id": 10,
+      "branch_name": "Тошкент шаҳри"
+    },
+    {
+      "bd": 11,
+      "branch_id": 11,
+      "branch_name": "Тошкент вилояти"
+    },
+    {
+      "bd": 12,
+      "branch_id": 12,
+      "branch_name": "Фарғона вилояти"
+    },
+    {
+      "bd": 13,
+      "branch_id": 13,
+      "branch_name": "Хоразм вилояти"
+    },
+    {
+      "bd": 14,
+      "branch_id": 14,
+      "branch_name": "Андижон вилояти"
+    }
+  ],
+  "departments": [
+    {
+      "department_id": 1,
+      "department_name": "Кадрлар маъмуриятчилиги департаменти"
+    },
+    {
+      "department_id": 2,
+      "department_name": "Давлат хизматчилари фаолиятини мониторинг қилиш ва баҳолаш департаменти"
+    },
+    {
+      "department_id": 3,
+      "department_name": "Давлат хизматчилари ҳуқуқларини ҳимоя қилиш ва улар учун шарт-шароитлар яратиш масалалри департаменти"
+    },
+    {
+      "department_id": 4,
+      "department_name": "Инсон ресурслари ва кадрлар салоҳиятини ривожлантириш департаменти"
+    },
+    {
+      "department_id": 5,
+      "department_name": "Ахборот технологияларини жорий этиш ва ахборот хавфсизлигини таъминлаш департаменти"
+    },
+    {
+      "department_id": 6,
+      "department_name": "Кадрлар сиёсатини таъминлаш йиғма ахборот-таҳлил департаменти"
+    },
+    {
+      "department_id": 7,
+      "department_name": "Истиқболли кадрлар селекцияси бошқармаси"
+    },
+    {
+      "department_id": 8,
+      "department_name": "Ахборот хизмати"
+    },
+    {
+      "department_id": 9,
+      "department_name": "Халқаро ҳамкорлик бошқармаси"
+    }
+  ],
+  "statuses": [
+    {
+      "status_id": 1,
+      "status_name": "Good"
+    },
+    {
+      "status_id": 2,
+      "status_name": "Ok"
+    },
+    {
+      "status_id": 3,
+      "status_name": "Bad"
+    }
+  ],
+  "branch_projects": [],
+  "department_projects": []
 }
